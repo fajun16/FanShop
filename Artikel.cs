@@ -1,5 +1,6 @@
 ﻿namespace FanShop
 {
+    // PrimaryKey Artikelnummer
     internal class Artikel
     {
         public int Artikelnummer { get; set; }
